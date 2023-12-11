@@ -12,3 +12,6 @@ Um diese Ziele zu erreichen, wird das Projekt von folgenden Forschungsfragen gel
 * Wie können moderne Technologien wie NER und GIS genutzt werden, um die im Roman erwähnten Orte genau zu identifizieren, zu annotieren und georeferenzieren?
 * Wie kann das entwickelte Open-Source-Tool zur Analyse anderer Großstadtromane genutzt werden und welche Anforderungen sollten bei der Entwicklung berücksichtigt werden?
 * Wie kann die Verwendung von zeitgenössischen Fotos das Verständnis des Romans verbessern und welche Kriterien sollten bei der Auswahl dieser Fotos angewendet werden?
+
+# Gantt
+![Gantt](https://github.com/dittm/DubLitOr/blob/da8c6d772aa17a2079468db510d281bf07f05d2d/gantt.png)
