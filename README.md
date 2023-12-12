@@ -14,4 +14,4 @@ Um diese Ziele zu erreichen, wird das Projekt von folgenden Forschungsfragen gel
 * Wie kann die Verwendung von zeitgenössischen Fotos das Verständnis des Romans verbessern und welche Kriterien sollten bei der Auswahl dieser Fotos angewendet werden?
 
 # Gantt
-![Gantt](https://github.com/dittm/DubLitOr/blob/da8c6d772aa17a2079468db510d281bf07f05d2d/gantt.png)
+![Gantt](https://github.com/dittm/DubLitOr/blob/d29fbc03bb72c5ec995ef0c20631c6ff43be4be2/gantt.png)
